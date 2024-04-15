@@ -1,28 +1,33 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola+soy+Jorge+Adrian;Bienvenido+A+Mi+Porfolio)](https://git.io/typing-svg)
 
 <p align="left">
-    Buenas, soy Jorge Adrian Perez. Actualmente estoy aprendiendo Ciencia de Datos y me estoy enfocando en convertirme en un desarrollador frontend. Disfruto trabajando en proyectos web y he creado algunos pequeños con tecnologías como Astro, HTML y Tailwind CSS.
+    Buenas, soy Jorge Adrian Perez. Actualmente estoy aprendiendo Ciencia de Datos y me estoy enfocando en convertirme en un Cientifico de Datos.
+    Skills  Destreza para solucionar problemas - Colaboración a los equipos interdisciplinarios - Capacidad de adaptación - Orientación a resultados - Capacidad analitica
+    Habilidades Competencia en hojas de cálculo, SQL, Python, R y Tableau.
+                Conocimiento Cloud Azure, AWS, GPC
+                Certificaciones: AZ-900 - PL-900
 </p>
 
  --- 
 
-- 🔭 Actualmente estoy trabajando en un Blog para una comunidad de discord [LoL Argentina](https://github.com/1pome/lolargentina) Que se esta creando desde 0 para que funcione con Astro.
+- 🔭 Actualmente estoy trabajando en proyectos independientes para ir sumando experiencia en el area de datos
 
-- 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/1pome)
+- 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/jorgegnr)
 
-- 📫 Como contactarme: [Instagram](https://www.instagram.com/1pomee/)
+- 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/jorge-perez-1b136446)
 
  --- 
 
 <h3 align="left">Connect with me:</h3>
 
-[Instagram](https://www.instagram.com/1pomee/)
+[Linkedin](https://www.linkedin.com/in/jorge-perez-1b136446)
 
  --- 
 
 <h3 align="left">Languages and Tools:</h3>
 
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h3 align="left">Currently learning:</h3>
 
