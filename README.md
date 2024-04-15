@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola+soy+Jorge+Adrian;Second+line+of+text)](https://git.io/typing-svg)
 
 <p align="left">
     Buenas, soy Jorge Adrian Perez. Actualmente estoy aprendiendo Ciencia de Datos y me estoy enfocando en convertirme en un desarrollador frontend. Disfruto trabajando en proyectos web y he creado algunos pequeños con tecnologías como Astro, HTML y Tailwind CSS.
