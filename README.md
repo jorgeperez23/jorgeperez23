@@ -14,13 +14,13 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/jorgegnr)
 
-- 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/jorge-perez-1b136446)
+- 📫 Como contactarme:  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin Jorge Perez](https://www.linkedin.com/in/jorge-perez-1b136446)
 
  --- 
 
 <h3 align="left">Connect with me:</h3>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin](https://www.linkedin.com/in/jorge-perez-1b136446)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  [Linkedin](https://www.linkedin.com/in/jorge-perez-1b136446)
 
  --- 
 
