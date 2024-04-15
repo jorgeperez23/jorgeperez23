@@ -2,10 +2,10 @@
 
 <p align="left">
     Buenas, soy Jorge Adrian Perez. Actualmente estoy aprendiendo Ciencia de Datos y me estoy enfocando en convertirme en un Cientifico de Datos.
-    Skills  Destreza para solucionar problemas - Colaboración a los equipos interdisciplinarios - Capacidad de adaptación - Orientación a resultados - Capacidad analitica
-    Habilidades Competencia en hojas de cálculo, SQL, Python, R y Tableau.
-                Conocimiento Cloud Azure, AWS, GPC
-                Certificaciones: AZ-900 - PL-900
+    <br>Skills  Destreza para solucionar problemas - Colaboración a los equipos interdisciplinarios - Capacidad de adaptación - Orientación a resultados - Capacidad analitica
+    <br>Habilidades Competencia en hojas de cálculo, SQL, Python, R y Tableau.
+                    <br>Conocimiento Cloud Azure, AWS, GPC
+                    <br>Certificaciones: AZ-900 - PL-900
 </p>
 
  --- 
