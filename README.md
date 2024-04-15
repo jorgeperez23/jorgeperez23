@@ -2,8 +2,9 @@
 
 <p align="left">
     Buenas, soy Jorge Adrian Perez. Actualmente estoy aprendiendo Ciencia de Datos y me estoy enfocando en convertirme en un Cientifico de Datos.
+    <br>Recibido del Diplomado En Inteligencia De Datos en la Gestión de las Organizaciones - Universidad Nacional de Cuyo
     <br>Skills  Destreza para solucionar problemas - Colaboración a los equipos interdisciplinarios - Capacidad de adaptación - Orientación a resultados - Capacidad analitica
-    <br>Habilidades Competencia en hojas de cálculo, SQL, Python, R y Tableau.
+    <br>Habilidades Competencia en hojas de cálculo, SQL, Python (Numpy, Pandas, Matplotlib), R , Tableau y Power BI.
                     <br>Conocimiento Cloud Azure, AWS, GPC
                     <br>Certificaciones: AZ-900 - PL-900
 </p>
