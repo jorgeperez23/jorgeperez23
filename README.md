@@ -12,7 +12,7 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos independientes para ir sumando experiencia en el area de datos
 
-- 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/jorgegnr)
+- 👨‍💻 Todos mis proyectos están disponibles en [mi perfil de GitHub](https://github.com/jorgeperez23)
 
 - 📫 Como contactarme:  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin Jorge Perez](https://www.linkedin.com/in/jorge-perez-1b136446)
 
