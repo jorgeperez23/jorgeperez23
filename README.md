@@ -17,6 +17,8 @@
 
 - 📫 Como contactarme:  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin Jorge Perez](https://www.linkedin.com/in/jorge-perez-1b136446)
 
+- # [Mi CV](https://drive.google.com/file/d/1KW9qkUJjdwHRdkL1oTq2ffZWIQobPfH7/view?usp=sharing)
+
  --- 
 
 <h3 align="left">Connect with me:</h3>
